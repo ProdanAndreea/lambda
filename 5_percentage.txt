@@ -1,0 +1,8 @@
+Leaving	
+Breakfast	
+Snack	
+Grooming	
+Showering	
+Spare_Time/TV
+Toileting	
+Lunch
